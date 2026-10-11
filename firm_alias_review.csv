@@ -1,0 +1,111 @@
+firm_A,firm_B,count_A,count_B,similarity_ratio
+garden fresh foods,hardies fresh foods,634,1,0.8649
+whole foods market,whole foods market group,317,37,0.8571
+kerry foods,herr foods,92,5,0.8571
+lipari foods,paris foods,80,1,0.8696
+inventure foods,ventura foods,73,26,0.8571
+csm bakery products na,csm bakery products,68,13,0.9268
+abbott laboratories,abco laboratories,61,1,0.8889
+creative foodworks,creative foods,57,2,0.875
+crf frozen foods,b c frozen foods,54,2,0.875
+crf frozen foods,cn frozen foods,54,1,0.9032
+gm manufacturing,jlm manufacturing,46,7,0.9091
+gm manufacturing,fgp manufacturing,46,3,0.9091
+gm manufacturing,cgnp manufacturing,46,2,0.8824
+gm manufacturing,rb manufacturing,46,1,0.875
+gh foods ca,gh foods ga,40,1,0.9091
+e s foods,jule s foods,35,5,0.8571
+e s foods,ken s foods,35,3,0.9
+e s foods,s s foods,35,1,0.8889
+e s foods,e e foods,35,1,0.8889
+gourmet foods international,gourmet international,33,8,0.875
+gourmet foods international,foremost foods international,33,7,0.8727
+joy gourmet foods,gourmet foods,29,8,0.8667
+sauer brands slo,sauer brands,26,1,0.8571
+give and go prepared foods usa,give and go prepared foods finch,26,4,0.871
+give and go prepared foods usa,give and go prepared foods,26,2,0.9286
+freshpoint central florida,freshpoint central california,24,2,0.8727
+bunge oil north america,bunge north america,24,1,0.9048
+fuji food products,ruiz food products,24,2,0.8889
+ukrop s homestyle foods,ron s home style foods,21,5,0.8889
+j f c international,jnc international,19,1,0.8889
+j f c international,fkc international,19,1,0.8889
+j f c international,ajc international,19,1,0.8889
+j f c international,d f s international,19,1,0.8947
+hellofresh us,hellofresh,19,4,0.8696
+roos foods,kronos foods,18,8,0.9091
+ask foods,asukar foods,18,1,0.8571
+dean foods,eden foods,17,1,0.9
+mkg provisions,jtm provisions,16,2,0.8571
+naturebox,naturex,14,4,0.875
+schwabe north america,isabel north america,13,3,0.878
+schwabe north america,calbee north america,13,1,0.878
+del monte fresh produce na,del monte fresh produce n a hq,13,7,0.9286
+sugar foods,asukar foods,13,1,0.8696
+lancaster foods,lancaster fine foods,13,1,0.8571
+middlefield original cheese cooperative,middlefield original cheese coop,13,4,0.9014
+eco cuisine,lecoq cuisine,12,2,0.9167
+xan confections,fox confections,11,7,0.8667
+marine harvest usa,marine harvest,11,3,0.875
+dursett amigos,durrset amigos,11,8,0.9286
+rong shing trading ny,rong shing trading,11,1,0.9231
+berres brothers,borris brothers,10,3,0.8667
+supreme distributors,surma distributors,10,1,0.8947
+shearers foods,herrs foods,10,1,0.88
+ardent mills,ardent mills usa,10,1,0.8571
+stagno s bakery,sumano s bakery,10,2,0.8667
+nate s fine foods,india s fine foods,10,3,0.8571
+flying food group,flying food group law,9,1,0.8947
+s m international,jmh international,9,8,0.8824
+s m international,fma international,9,1,0.8824
+hagee foods,apogee foods,9,2,0.8696
+goya foods,royal foods,9,2,0.8571
+kanan enterprises,fahman enterprises,9,2,0.8571
+kanan enterprises,khara enterprises,9,1,0.8824
+california new foods,california snack foods,9,4,0.8571
+taylor farms northwest,taylor farms southwest,9,3,0.9091
+ultratab laboratories,ultra laboratories,9,1,0.9231
+vega sequel naturals,sequel naturals,8,5,0.8571
+reily foods,rill foods,8,5,0.8571
+reily foods,real foods,8,2,0.8571
+h e b grocery,he butt grocery,8,4,0.8571
+h e b grocery,heb grocery,8,2,0.9167
+kronos foods,krinos foods,8,1,0.9167
+kronos foods,kontos foods,8,1,0.9167
+pastian s bakery,asian bakery,8,4,0.8571
+cargill cocoa and chocolate,cargill cocoa chocolate,8,3,0.92
+jmh international,jnc international,8,1,0.8824
+jmh international,ajc international,8,1,0.8824
+jmh international,fma international,8,1,0.8824
+dawn food products,goodman food products,7,1,0.8718
+midwest international,icrest international,7,4,0.878
+midwest international,desly international,7,2,0.85
+del monte fresh produce n a hq,del monte fresh produce,7,4,0.8679
+armada nutrition,labrada nutrition,7,3,0.9091
+foremost foods international,seacrest foods international,7,1,0.8571
+factor,factory6,7,1,0.8571
+revive organics,vive organic,7,1,0.8889
+akt trading,mak trading,7,1,0.9091
+nature s path foods,natures path foods usa,6,1,0.878
+suadel food products,deb el food products,6,2,0.85
+del monte fresh produce n a,del monte fresh produce,6,4,0.92
+seaquest seafood,aquabest seafood,6,3,0.875
+pero family farms,pero family farms food,6,1,0.8718
+el chilar hf,el chilar huff,6,2,0.9231
+prime food processing,tp food processing,6,2,0.8718
+khee trading,h e trading,5,1,0.8696
+united salad,united salt,5,1,0.8696
+la terra fina,la terra fina usa,5,1,0.8667
+u b c food distributors,g c food distributors,5,1,0.9091
+classic cooking,new classic cooking,5,1,0.8824
+national frozen foods,wawona frozen foods,5,3,0.85
+papa john s salads produce,papa john s salads and produce,5,1,0.9286
+friendly fruit market dba sid wainer son,friendly fruit dba sid wainer son,5,1,0.9041
+a g specialty foods,kt specialty foods,5,3,0.8649
+a g specialty foods,abbey specialty foods,5,2,0.85
+icrest international,emceta international,4,2,0.85
+icrest international,juices international,4,1,0.9
+reichel foods,richelieu foods,4,2,0.8571
+riviana international,silva international,4,3,0.85
+riviana international,ramar international,4,1,0.85
+natural organics,nara organics,4,1,0.8966

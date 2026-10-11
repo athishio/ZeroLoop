@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Scratch test files & backups
+test_firm_merge.py
+test_recurrence_new.py
+test_run.ipynb
+fda_food_enforcement_backup.csv
+
+# Environments & OS files
+.env
+.venv
+env/
+venv/
+*.egg-info/
+.DS_Store
+Thumbs.db
